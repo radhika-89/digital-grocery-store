@@ -48,8 +48,7 @@ ShopSmart offers a modern, scalable, and performance-optimized platform for groc
 The primary goal of the ShopSmart Grocery Store project is to digitize the grocery shopping experience by building a fully functional, user-friendly, and responsive web application. The project aims to:
 
 🛍 Simplify online grocery shopping for users through a seamless browsing and ordering experience.
-LIVE DEMO LINK:
-https://drive.google.com/file/d/1ILlCnqdms5O2vqXNZlSa3Us37qcVRtwy/view?usp=sharing
+
 👩‍💼 Empower store admins with tools to manage products, categories, and orders efficiently.
 
 📦 Enable real-time inventory and order tracking to ensure smooth business operations.
@@ -60,4 +59,6 @@ https://drive.google.com/file/d/1ILlCnqdms5O2vqXNZlSa3Us37qcVRtwy/view?usp=shari
 
 This project combines both user-centric design and admin-level control to simulate a real-world digital grocery store system, making it ideal for learning, portfolio, or business prototyping purposes.
 
+LIVE DEMO LINK:
+https://drive.google.com/file/d/1ILlCnqdms5O2vqXNZlSa3Us37qcVRtwy/view?usp=sharing
 
